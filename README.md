@@ -2,6 +2,8 @@
 Advanced Discord.js Command/Slash Handler for V13.
 ```
 
+``` Btw just Add "commands" folder then another folder for your Commands. ```
+
 ## Features
 
 * Slash Command Handler (Multi & Single Guild)
