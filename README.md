@@ -42,4 +42,4 @@ ERROR_LOG_CHANNEL = '' Put your channel id for Error logs
 * **Start** the Bot by Running `node .` (Make Sure you have [Node 16](https://nodejs.org/download/release/v16.13.0/))
 
 ## If you still got issues, Join the Support server 
-## **[Discord Server](https://discord.gg/q2ZQAtC6Hj)**
+## **[Discord Server](https://discord.gg/cwRVNn5Maf)**
