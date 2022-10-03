@@ -18,7 +18,7 @@ Advanced Discord.js Command/Slash Handler for V13.
 
 ## Installation
 
-* **Clone the Repo** by typing ``git clone https://github.com/Voixle/Advanced-Slash-and-Command-Handler-V13.git``
+* **Clone the Repo** by typing ``git clone https://github.com/SummerToast/Advanced-Slash-and-Command-Handler-V13.git``
 
 * Set up your **[.env]**
 ```
